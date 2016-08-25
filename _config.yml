@@ -1,7 +1,9 @@
 name: Austin Hackers Anonymous
+url: http://takeonme.org
 title: Austin Hackers Academy
-markdown: redcarpet
-pygments: true
+
+markdown: kramdown
+highlighter: rouge
 timezone: America/Chicago
 homepage: index.html
 meetingpage: meetings.html
@@ -9,3 +11,20 @@ aboutuspage: aboutus.html
 mailinglistpage: mailinglist.html
 ircpage: irc.html
 ourspawnpage: ourspawn.html
+rules: rules.html
+
+avatar: /images/AHA-logo-black.png
+
+footer-links:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: AustinHackers/austinhackers.github.io
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: austinhackers
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+
